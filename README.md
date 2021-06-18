@@ -9,7 +9,7 @@ Na aula de hoje veremos como utilizar Proxy em um projeto React e no final do v�
 1. Clone o projeto, altere o diretório e instale as dependênci.
 
    ```bash
-   git clone https://github.com/philnash/react-express-starter.git
+   git clone projeto...
    cd react-express-starter
    npm install
    ```
