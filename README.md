@@ -46,5 +46,6 @@ Na aula de hoje veremos como utilizar Proxy em um projeto React e no final do v√
 
 Essa aula pertence ao conte√∫do Expert do Rockeat Seat
 
-Apresentado por Nikolas N. Fernandes <img src="https://avatars.githubusercontent.com/u/8696475?s=60&v=4" width="75px;"/>
-|[Nikolas N. Fernandes](https://github.com/nikolasnf)|
+<img src="https://avatars.githubusercontent.com/u/8696475?s=60&v=4" width="75px;"/> Apresentado por Nikolas N. Fernandes 
+
+[Nikolas N. Fernandes](https://github.com/nikolasnf)|
