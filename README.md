@@ -42,4 +42,6 @@ Na aula de hoje veremos como utilizar Proxy em um projeto React e no final do v�
 
    A aplicação deve ficar na porta 3000 e o servidor na porta 3001 por padrão.
 
-## React Twilio starter
+## Programa Expert do Rockeat Seat
+
+Essa aula pertence ao conteúdo Expert do Rockeat Seat
