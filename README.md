@@ -49,3 +49,5 @@ Essa aula pertence ao conteúdo Expert do Rockeat Seat
 <img src="https://avatars.githubusercontent.com/u/8696475?s=60&v=4" width="75px;"/> por Nikolas N. Fernandes 
 
 [Nikolas N. Fernandes](https://github.com/nikolasnf)
+
+TAGS: Proxy, React, Express, API
